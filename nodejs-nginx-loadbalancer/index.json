@@ -1,6 +1,6 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Nodejs Nginx load balancer using docker-compose",
+  "description": "Nodejs Nginx load balancer using docker-compose",
   "difficulty": "beginner",
   "time": "2 minutes",
   "details": {
